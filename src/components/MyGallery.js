@@ -274,7 +274,6 @@ class MyGallery extends Component {
   };
 
   render() {
-    console.log("test");
     return (
       <div>
         {!this.state.isLoaded
